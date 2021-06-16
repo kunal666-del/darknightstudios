@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/darknightstudios/static/css/main.eccf9575.chunk.css",
+    "main.js": "/darknightstudios/static/js/main.2a8d5f0d.chunk.js",
+    "main.js.map": "/darknightstudios/static/js/main.2a8d5f0d.chunk.js.map",
+    "runtime-main.js": "/darknightstudios/static/js/runtime-main.899d3ca6.js",
+    "runtime-main.js.map": "/darknightstudios/static/js/runtime-main.899d3ca6.js.map",
+    "static/css/2.61526bb2.chunk.css": "/darknightstudios/static/css/2.61526bb2.chunk.css",
+    "static/js/2.5aa0ecac.chunk.js": "/darknightstudios/static/js/2.5aa0ecac.chunk.js",
+    "static/js/2.5aa0ecac.chunk.js.map": "/darknightstudios/static/js/2.5aa0ecac.chunk.js.map",
+    "static/js/3.ed0fce70.chunk.js": "/darknightstudios/static/js/3.ed0fce70.chunk.js",
+    "static/js/3.ed0fce70.chunk.js.map": "/darknightstudios/static/js/3.ed0fce70.chunk.js.map",
+    "index.html": "/darknightstudios/index.html",
+    "static/css/2.61526bb2.chunk.css.map": "/darknightstudios/static/css/2.61526bb2.chunk.css.map",
+    "static/css/main.eccf9575.chunk.css.map": "/darknightstudios/static/css/main.eccf9575.chunk.css.map",
+    "static/js/2.5aa0ecac.chunk.js.LICENSE.txt": "/darknightstudios/static/js/2.5aa0ecac.chunk.js.LICENSE.txt",
+    "static/media/dns2.1afd114d.png": "/darknightstudios/static/media/dns2.1afd114d.png",
+    "static/media/ig.b6143c1f.png": "/darknightstudios/static/media/ig.b6143c1f.png",
+    "static/media/ka.f6cad1fa.jpeg": "/darknightstudios/static/media/ka.f6cad1fa.jpeg",
+    "static/media/vk.cc67361d.jpeg": "/darknightstudios/static/media/vk.cc67361d.jpeg",
+    "static/media/yt.ea75c013.png": "/darknightstudios/static/media/yt.ea75c013.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.899d3ca6.js",
+    "static/css/2.61526bb2.chunk.css",
+    "static/js/2.5aa0ecac.chunk.js",
+    "static/css/main.eccf9575.chunk.css",
+    "static/js/main.2a8d5f0d.chunk.js"
+  ]
+}
