@@ -1,0 +1,52 @@
+.about{
+    background-color: black;
+    color: white;
+    height: 1500px;
+}
+
+.mainh{
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+    padding:20px;
+}
+
+.about .container p{
+    text-align: center;
+}
+
+.founders h1{
+    text-align: center;
+    font-family: 'Odibee Sans', cursive;
+    padding-top: 50px;
+    font-size: 55px;
+}
+
+.imgs h4{
+    text-align: center;
+}
+
+.imgs{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.imgs h4{
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+.imgs img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.container .quote{
+    width: 250px;
+    margin-top: 100px;
+}
+
+.container .quote .naming{
+    text-align: right;
+}
